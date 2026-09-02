@@ -35,8 +35,6 @@ The main sample used throughout the course can be found at:
 samples/book-app-web
 ```
 
-Start with the [setup chapter](./00-setup/README.md) to prepare the course environment.
-
 ## Target Audience
 
 This course is designed for:
